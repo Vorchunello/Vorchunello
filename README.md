@@ -10,9 +10,15 @@
 
 ## 🧠 Summary
 I'm an enthusiastic junior developer with a deep love for immersive, narrative-driven experiences — the kind that studios like **Larian**, **Lo-Fi Games**, and **TaleWorlds** deliver. I'm currently studying Software Engineering and building my skill set through personal projects, code experiments, and hands-on learning in Linux.
+
 ---
+
 ## 🎯 Objective
 To join a passionate, creative team working on meaningful projects. I'm seeking opportunities where I can grow as a developer, contribute to real products, and learn from experienced mentors.
+
+---
+## 🌱 Open Source
+I'm currently exploring beginner-friendly open source projects (e.g. `good first issue`, `help wanted` tags) to start contributing and learning real-world workflows.
 
 ---
 
