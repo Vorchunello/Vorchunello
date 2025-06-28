@@ -9,7 +9,7 @@
 ---
 
 ## 🧠 Summary
-I'm an enthusiastic junior developer with a deep love for immersive, narrative-driven experiences — the kind that studios like **Larian**, **Lo-Fi Games**, and **TaleWorlds** deliver. I'm currently studying Software Engineering and building my skill set through personal projects, code experiments, and hands-on learning in Linux.
+I'm an enthusiastic junior developer with a deep love for immersive, narrative-driven experiences. I'm currently studying Software Engineering and building my skill set through personal projects, code experiments, and hands-on learning in Linux.
 
 ---
 
@@ -31,7 +31,7 @@ Python, C (learning), Assembly (basic), HTML, CSS
 Django, Godot, Linux CLI
 
 **Currently Learning:**  
-C++, Git workflows, backend & game dev practices, databases
+С/C++, Git workflows, backend practices, databases
 
 **Academic Strengths:**  
 University-level math (Calculus, Linear Algebra, Discrete Math — 1st year level)
