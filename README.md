@@ -113,44 +113,20 @@ Debug Method: printf() and strategic tea breaks ☕
 
 <div align="center">
 
-```go
-package main
+<details>
+<summary>🚧 <strong>Current Learning & Experiments</strong></summary>
 
-import "fmt"
+🔥 **C/C++ Deep Dive**  
+> Mastering memory management, optimization & low‑level hacks.  
 
-type LearningPath struct {
-    Focus       string
-    Status      string
-    Excitement  int // 1-10 scale
-    Description string
-}
+🔧 **Cpython**  
+> Improving my python(sometimes by using math). 
 
-func main() {
-    currentFocus := map[string]LearningPath{
-        "📚 C/C++ Deep Dive": {
-            Focus:       "Low-level programming mastery",
-            Status:      "📖 Active Learning",
-            Excitement:  8,
-            Description: "Exploring memory management & performance",
-        },
-        "🎮 Game Mechanics": {
-            Focus:       "Interactive storytelling",
-            Status:      "🔄 Experimenting",
-            Excitement:  9,
-            Description: "Prototyping ideas in Godot",
-        },
-        "🐧 Linux Wizardry": {
-            Focus:       "System automation",
-            Status:      "🔧 Daily Practice",
-            Excitement:  7,
-            Description: "Building custom tools & scripts",
-        },
-    }
-    
-    fmt.Println("🔬 Lab Status: Experiments in progress!")
-    fmt.Println("📦 Public repos: Coming when ready to showcase!")
-}
-```
+🐧 **Linux Automation**  
+> Building custom scripts and tools for ultimate workflow.  
+
+> _Zero projects live… for now. Brace yourselves — big things are coming!_ 😉
+</details>
 
 </div>
 
@@ -183,38 +159,20 @@ WHERE status = 'MASTERED' OR status = 'IN_PROGRESS';
 
 ---
 
-## 🌍 Multilingual Communication
+<!-- Multilingual Communication -->
 
 <div align="center">
 
-```cpp
-#include <iostream>
-#include <map>
-#include <string>
+<details>
+<summary>🌍 <strong>Multilingual Communication</strong></summary>
 
-class LanguageSkills {
-private:
-    std::map<std::string, std::pair<std::string, std::string>> languages;
-    
-public:
-    LanguageSkills() {
-        languages["🇷🇺 Russian"] = {"Native", "Primary thoughts & debugging rants"};
-        languages["🇬🇧 English"] = {"Intermediate", "Code docs & global communication"};
-        languages["🇹🇷 Turkish"] = {"Fluent", "Cultural bridge & family conversations"};
-        languages["💻 Code"] = {"Advanced", "Universal language of logic"};
-    }
-    
-    void displaySkills() {
-        std::cout << "Communication Array:" << std::endl;
-        for (const auto& lang : languages) {
-            std::cout << lang.first << " -> " << lang.second.first 
-                      << " (" << lang.second.second << ")" << std::endl;
-        }
-    }
-};
-
-// Fluent in human languages, learning to speak fluent machine 🤖
-```
+| Language    | Level          | Use Case                                    |
+| :---------- | :------------- | :------------------------------------------- |
+| 🇷🇺 Russian   | **Native**     | Everyday life, jokes & deep debugging rants |
+| 🇬🇧 English   | **Intermediate** | Code docs, global collaboration            |
+| 🇹🇷 Turkish   | **Fluent**     | Family chats & cultural bridge              |
+| 💻 Code      | **Advanced**   | Universal language of logic                 |
+</details>
 
 </div>
 
@@ -222,23 +180,16 @@ public:
 
 ## 🎮 Side Quests & Interests
 
-```rust
-fn discover_passions() -> Vec<&'static str> {
-    let interests = vec![
-        "🎵 Exploring different music genres while coding",
-        "🎮 Gaming sessions for inspiration & relaxation", 
-        "📖 Reading about tech innovations and future trends",
-        "🍵 Perfecting the art of tea brewing",
-        "🌌 Late-night philosophical discussions about AI",
-        "🔧 Tinkering with hardware when software gets boring"
-    ];
-    
-    println!("Life is more than just code! 🌟");
-    interests
-}
+<details>
+<summary>🎮 <strong>Side Quests & Interests</strong></summary>
 
-// TODO: Add more hobbies as I explore new dimensions of life
-```
+- 🥊 **MMA**, ⚽ **Football**, 🏓 **Table Tennis**, 🏐 **Volleyball**, 🏋️‍♂️ **CrossFit**  
+- 🌲 **Outdoor Adventures**: hiking, cycling, camping  
+- 🎮 **Gaming**: from RPGs to retro arcades  
+- 📚 **Reading**: sci‑fi, non‑fiction, thrillers & more  
+- 🎬 **Movies & Series**: indie art‑house to blockbusters  
+- ☕ **Tea Connoisseur**: from green to pu‑erh  
+</details>
 
 ---
 
