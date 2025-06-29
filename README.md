@@ -156,35 +156,7 @@ _But somewhere deep in the console — magic is brewing._
 
 </details>
 </div>
-<details>
-<summary>🚀 <strong>Projects Pipeline</strong></summary>
 
-```
-wake up, dev... █
-
-⠁⠂⠄⠑⠒⠊⠐⠁⠂⠄⠒⠑⠂⠄⠁⠂⠄⠐⠈⠁⠂⠄⠑⠒⠂⠄
-
-[ SYSTEM LOG: dev://matrix-boot-sequence ]
-
-> Ideas detected...                ✓
-> Tools loaded...                 ✓
-> Coffee brewed...                ✓
-> Universe synced...              ✓
-> Project visibility: hidden      [✔]
-
-⠘⠄⠑⠒⠂⠄⠁⠂⠄⠐⠈⠁⠂⠄⠑⠒⠊⠐⠁⠂⠄⠒⠑⠂⠄⠁⠂⠄
-
-:: STATUS  :: dormant  
-:: SIGNAL  :: awakening  
-:: LAUNCH  :: inevitable_soon™
-
-[ whispering... ]  
-_The Matrix has you._  
-_Watch this space. Reality is updating... █_
-
-```
-
-</details>
 
 
 ---
@@ -220,8 +192,7 @@ WHERE status = 'MASTERED' OR status = 'IN_PROGRESS';
 
 <div align="center">
 
-<details>
-<summary>🌍 <strong>Multilingual Communication</strong></summary>
+
 
 | Language    | Level          | Use Case                                    |
 | :---------- | :------------- | :------------------------------------------- |
@@ -229,7 +200,7 @@ WHERE status = 'MASTERED' OR status = 'IN_PROGRESS';
 | 🇬🇧 English   | **Intermediate** | Code docs, global collaboration            |
 | 🇹🇷 Turkish   | **Fluent**     | Family chats & cultural bridge              |
 | 💻 Code      | **Advanced**   | Universal language of logic                 |
-</details>
+
 
 </div>
 
