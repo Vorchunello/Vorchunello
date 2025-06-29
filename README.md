@@ -114,7 +114,7 @@ Debug Method: printf() and strategic tea breaks ☕
 <div align="center">
 
 <details>
-<summary>🚧 <strong>Current Learning & Experiments</strong></summary>
+<summary>🚧 <strong>LIST OF LEARNING!</strong></summary>
 
 🔥 **C/C++ Deep Dive**  
 > Mastering memory management, optimization & low‑level hacks.  
@@ -134,7 +134,7 @@ Debug Method: printf() and strategic tea breaks ☕
 ## Projects 
 <div align="center">
 <details>
-<summary>🚀 <strong>Projects Pipeline</strong></summary>
+<summary>🚀 <strong>LIST OF PROJECTS</strong></summary>
 
 ```
 ┌────────────────────────────────────────────────────┐
