@@ -109,39 +109,47 @@ Debug Method: printf() and strategic tea breaks ☕
 
 ---
 
-## 🚧 Current Projects & Digital Experiments
+## 🚧 Current Learning & Experiments
 
 <div align="center">
 
-```javascript
-const currentProjects = {
-    "🌐 Django Web Apps": {
-        status: "⚡ In Progress",
-        description: "Building modular auth systems & CRUD magic",
-        techStack: ["Python", "Django", "PostgreSQL"],
-        excitement: "High"
-    },
-    "🎮 Godot Prototypes": {
-        status: "🔄 Active Development", 
-        description: "2D game mechanics & UI wizardry",
-        techStack: ["GDScript", "Godot", "Pixel Art"],
-        excitement: "Through the roof!"
-    },
-    "🐧 Linux Automation": {
-        status: "🔧 Continuous",
-        description: "Custom CLI tools & system sorcery", 
-        techStack: ["Bash", "Python", "NixOS"],
-        excitement: "Nerd level 100"
-    },
-    "📚 C/C++ Journey": {
-        status: "📖 Learning",
-        description: "Diving into low-level programming",
-        techStack: ["C", "C++", "Make", "GDB"],
-        excitement: "Challenging but rewarding"
-    }
-};
+```go
+package main
 
-console.log("🚀 Repositories coming soon - currently polishing gems!");
+import "fmt"
+
+type LearningPath struct {
+    Focus       string
+    Status      string
+    Excitement  int // 1-10 scale
+    Description string
+}
+
+func main() {
+    currentFocus := map[string]LearningPath{
+        "📚 C/C++ Deep Dive": {
+            Focus:       "Low-level programming mastery",
+            Status:      "📖 Active Learning",
+            Excitement:  8,
+            Description: "Exploring memory management & performance",
+        },
+        "🎮 Game Mechanics": {
+            Focus:       "Interactive storytelling",
+            Status:      "🔄 Experimenting",
+            Excitement:  9,
+            Description: "Prototyping ideas in Godot",
+        },
+        "🐧 Linux Wizardry": {
+            Focus:       "System automation",
+            Status:      "🔧 Daily Practice",
+            Excitement:  7,
+            Description: "Building custom tools & scripts",
+        },
+    }
+    
+    fmt.Println("🔬 Lab Status: Experiments in progress!")
+    fmt.Println("📦 Public repos: Coming when ready to showcase!")
+}
 ```
 
 </div>
@@ -152,15 +160,23 @@ console.log("🚀 Repositories coming soon - currently polishing gems!");
 
 <div align="center">
 
-```yaml
-University: Surgut State University
-Degree: Software Engineering (In Progress)
-Mathematical Toolkit:
-  - Calculus: ✅ Derivatives & Integrals mastered
-  - Linear Algebra: ✅ Matrices are my friends
-  - Discrete Math: ✅ Logic & Algorithms
-  - Problem Solving: ✅ Breaking complex into simple
-Status: "Learning something new every day 📚"
+![University](https://img.shields.io/badge/🏛️_Surgut_State_University-Software_Engineering-00FF87?style=for-the-badge&labelColor=1A1A1A)
+
+```sql
+SELECT * FROM academic_toolkit 
+WHERE status = 'MASTERED' OR status = 'IN_PROGRESS';
+
+┌─────────────────┬──────────────┬─────────────────────────────┐
+│    SUBJECT      │    STATUS    │         DESCRIPTION         │
+├─────────────────┼──────────────┼─────────────────────────────┤
+│ Calculus        │ ✅ MASTERED  │ Derivatives & Integrals     │
+│ Linear Algebra  │ ✅ MASTERED  │ Matrices are my friends     │
+│ Discrete Math   │ ✅ MASTERED  │ Logic & Graph Theory        │
+│ Algorithms      │ 🔄 LEARNING  │ Problem-solving patterns    │
+│ Data Structures │ 🔄 LEARNING  │ Efficient data organization │
+└─────────────────┴──────────────┴─────────────────────────────┘
+
+-- Academic Status: Learning something new every day 📚
 ```
 
 </div>
@@ -171,48 +187,57 @@ Status: "Learning something new every day 📚"
 
 <div align="center">
 
-| Language | Proficiency | Usage |
-|----------|-------------|-------|
-| 🇷🇺 Russian | Native | Primary thoughts & dreams |
-| 🇬🇧 English | Intermediate | Code documentation & global communication |
-| 🇹🇷 Turkish | Fluent | Cultural bridge & family conversations |
+```cpp
+#include <iostream>
+#include <map>
+#include <string>
+
+class LanguageSkills {
+private:
+    std::map<std::string, std::pair<std::string, std::string>> languages;
+    
+public:
+    LanguageSkills() {
+        languages["🇷🇺 Russian"] = {"Native", "Primary thoughts & debugging rants"};
+        languages["🇬🇧 English"] = {"Intermediate", "Code docs & global communication"};
+        languages["🇹🇷 Turkish"] = {"Fluent", "Cultural bridge & family conversations"};
+        languages["💻 Code"] = {"Advanced", "Universal language of logic"};
+    }
+    
+    void displaySkills() {
+        std::cout << "Communication Array:" << std::endl;
+        for (const auto& lang : languages) {
+            std::cout << lang.first << " -> " << lang.second.first 
+                      << " (" << lang.second.second << ")" << std::endl;
+        }
+    }
+};
+
+// Fluent in human languages, learning to speak fluent machine 🤖
+```
 
 </div>
 
 ---
 
-## 💡 What Drives My Code
+## 🎮 Side Quests & Interests
 
-```python
-class Motivation:
-    def __init__(self):
-        self.core_values = [
-            "🔥 Passionate about meaningful technology",
-            "🌱 Continuous learning mindset", 
-            "🤝 Collaborative spirit - great things built together",
-            "🎯 Quality over quantity philosophy",
-            "🚀 Innovation with purpose"
-        ]
-        
-        self.current_goals = {
-            "short_term": [
-                "Master C/C++ fundamentals",
-                "Contribute to open source projects", 
-                "Build portfolio-worthy projects",
-                "Find amazing mentorship opportunities"
-            ],
-            "long_term": [
-                "Become a skilled full-stack developer",
-                "Create games that tell meaningful stories",
-                "Contribute to Linux ecosystem",
-                "Build tools that make developers' lives easier"
-            ]
-        }
+```rust
+fn discover_passions() -> Vec<&'static str> {
+    let interests = vec![
+        "🎵 Exploring different music genres while coding",
+        "🎮 Gaming sessions for inspiration & relaxation", 
+        "📖 Reading about tech innovations and future trends",
+        "🍵 Perfecting the art of tea brewing",
+        "🌌 Late-night philosophical discussions about AI",
+        "🔧 Tinkering with hardware when software gets boring"
+    ];
     
-    def get_inspiration(self):
-        return "Every bug is a puzzle waiting to be solved! 🧩"
+    println!("Life is more than just code! 🌟");
+    interests
+}
 
-motivation = Motivation()
+// TODO: Add more hobbies as I explore new dimensions of life
 ```
 
 ---
@@ -222,34 +247,41 @@ motivation = Motivation()
 <div align="center">
 
 ```mermaid
-graph TD
-    A[🔍 Looking For] --> B[💼 Internship Opportunities]
-    A --> C[🤝 Open Source Collaborations]
-    A --> D[👨‍🏫 Mentorship Programs]
-    A --> E[🚀 Real-world Projects]
+graph LR
+    A[👨‍💻 Muhammedali] --> B[🔍 Seeking Opportunities]
     
-    B --> F[Web Development]
-    B --> G[Game Development]
-    B --> H[Linux/DevOps]
+    B --> C[💼 Internships]
+    B --> D[🤝 Open Source]
+    B --> E[👨‍🏫 Mentorship]
+    B --> F[🚀 Real Projects]
     
-    C --> I[Python Projects]
-    C --> J[Documentation]
-    C --> K[Bug Fixes]
+    C --> G[🌐 Web Dev]
+    C --> H[🎮 Game Dev]
+    C --> I[🐧 DevOps/Linux]
     
-    D --> L[Code Reviews]
-    D --> M[Best Practices]
-    D --> N[Career Guidance]
+    D --> J[🐍 Python Projects]
+    D --> K[📚 Documentation]
+    D --> L[🐛 Bug Hunting]
     
-    E --> O[Team Collaboration]
-    E --> P[Production Code]
-    E --> Q[User Impact]
+    E --> M[📖 Code Reviews]
+    E --> N[🎯 Best Practices]
+    E --> O[🚀 Career Growth]
     
-    style A fill:#00FF87,stroke:#1A1A1A,stroke-width:3px
-    style B fill:#00D9FF,stroke:#1A1A1A,stroke-width:2px
-    style C fill:#FF6B6B,stroke:#1A1A1A,stroke-width:2px
-    style D fill:#FFD43B,stroke:#1A1A1A,stroke-width:2px
-    style E fill:#9B59B6,stroke:#1A1A1A,stroke-width:2px
+    F --> P[👥 Team Collaboration]
+    F --> Q[⚡ Production Code]
+    F --> R[💡 User Impact]
+    
+    style A fill:#00FF87,stroke:#000,stroke-width:4px,color:#000
+    style B fill:#00D9FF,stroke:#000,stroke-width:3px,color:#000
+    style C fill:#FF6B6B,stroke:#000,stroke-width:2px,color:#000
+    style D fill:#FFD43B,stroke:#000,stroke-width:2px,color:#000
+    style E fill:#9B59B6,stroke:#000,stroke-width:2px,color:#FFF
+    style F fill:#FF8C42,stroke:#000,stroke-width:2px,color:#000
+    
+    classDef default fill:#1A1A1A,stroke:#00FF87,stroke-width:2px,color:#00FF87
 ```
+
+*Ready to contribute, learn, and build amazing things together! 🌟*
 
 </div>
 
@@ -259,11 +291,13 @@ graph TD
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Vorchunello&theme=tokyonight_duo&hide_border=true&background=000000&stroke=00FF87&ring=00D9FF&fire=FF6B6B&currStreakNum=00FF87&sideNums=00D9FF&currStreakLabel=FFD43B&sideLabels=FFD43B&dates=FFFFFF)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vorchunello&theme=dark&background=000000&stroke=00FF87&ring=00D9FF&fire=FF6B6B&currStreakNum=00FF87&sideNums=00D9FF&currStreakLabel=FFD43B&sideLabels=FFD43B&dates=FFFFFF&hide_border=true)](https://github.com/Vorchunello)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vorchunello&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FF87&icon_color=00D9FF&text_color=FFFFFF&border_color=00FF87)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vorchunello&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FF87&text_color=FFFFFF&border_color=00FF87)
+
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Vorchunello&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
