@@ -1,324 +1,144 @@
-# 🚀 Muhammedali Shakhnazarov
-
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=00FF87&center=true&vCenter=true&width=700&height=60&lines=Aspiring+Junior+Developer+🚀;Python+%7C%7C+Linux+Wizard+🐧;Building+Digital+Magic+✨;Always+Learning%2C+Always+Growing+🌱;If+you+catch+some+bug+-+Get+some+tea!+🍵)
 
-</div>
+# Muhammedali Shakhnazarov
 
-<div align="center">
-  
-[![Telegram](https://img.shields.io/badge/Telegram-00D9FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1A1A1A)](https://t.me/totyeshotip)
-[![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A)](mailto:010107shah@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-00FF87?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A)](https://github.com/Vorchunello)
-[![Profile Views](https://komarev.com/ghpvc/?username=Vorchunello&color=00ff87&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Vorchunello)
+**Python Backend Developer · Linux Enthusiast · Builder**
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/totyeshotip)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:010107shah@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vorchunello)
+![Profile Views](https://komarev.com/ghpvc/?username=Vorchunello&color=0969da&style=flat-square&label=views)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## About
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Muhammedali Shakhnazarov"
-        self.location = "Surgut, Russia 🏔️"
-        self.education = "Software Engineering @ Surgut State University"
-        self.passionate_about = ["Clean Code", "Game Development", "Open Source"]
-        self.current_status = "Seeking opportunities to grow and contribute"
-        self.philosophy = "If you catch some bug - Get some tea! 🍵"
-        self.linux_journey = "Ubuntu → Fedora → NixOS → ∞"
-        self.tea_consumed = "∞ cups and counting ☕"
-    
-    def get_daily_routine(self):
-        activities = [
-            "🍵 Morning tea ritual & planning",
-            "💻 Crafting elegant solutions",
-            "🐧 Mastering Linux mysteries", 
-            "🎮 Bringing game ideas to life",
-            "📚 Absorbing new knowledge",
-            "🔧 Breaking things (then fixing them)",
-            "🌙 Late night coding sessions"
-        ]
-        return random.choice(activities)
-    
-    def current_mood(self):
-        return "Ready to build something awesome! 🚀"
+I'm a Software Engineering student at Surgut State University and a fullstack developer with a strong backend focus.
 
-# Initialize developer instance
-me = Developer()
-print(me.philosophy)  # If you catch some bug - Get some tea! 🍵
+Over the past year I've shipped **7+ production APIs** at [Ayistgroup](https://ayistgroup.com), built microservice infrastructure with Docker/Kubernetes on NixOS, and started an original open-source project — an agent-based economic simulator.
+
+I care about systems that actually work: clean architecture, real performance numbers, and code that survives production.
+
+Currently exploring **applied mathematics**, **cybersecurity**, and **gamedev** — always building, always learning.
+
+```
+Ubuntu → Fedora → NixOS → ∞     If you catch some bug — get some tea. 🍵
 ```
 
-<div align="center">
+---
 
-### 🔥 Quick Stats
+## Experience
 
-![](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dda00fcf6f1b19/assets/Bottom_up.svg)
+**Python Fullstack Developer @ Ayistgroup** `Mar 2025 – present`
+- Designed and shipped 7+ RESTful APIs with JWT authentication
+- Optimized PostgreSQL queries — **65% faster** response time
+- Deployed microservices on Docker/Kubernetes with **99.9% uptime**
+- Infrastructure on Ubuntu/NixOS
 
-</div>
+**Freelance Python Developer** `Sep 2024 – Feb 2025`
+- Built Telegram bots, scrapers, and REST services for small businesses
+- Owned full cycle: spec → code → VPS deployment
 
 ---
 
-## 🛠️ Tech Arsenal
+## Projects
 
-<div align="center">
+### EBES — Equity-Based Economy Simulator
 
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+> An agent-based simulator of an interest-free economy: partnership, risk-sharing, real assets.
 
-### 🎮 Game Development & Tools
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| Module | Description |
+|--------|-------------|
+| **Mudarabah** | Investor + manager, profit sharing |
+| **Musharakah** | Joint partnership with equity participation |
+| **Zakat** | 2.5% redistribution above nisab threshold |
+| **Sukuk** | Cash flow from real assets |
+| **Agents** | Mesa simulation of 1000+ agents |
+| **Macro** | GDP, Gini index, trade via World Bank API |
+| **ML** | Prophet forecast · KMeans · Optuna optimizer |
 
-### 🐧 Linux Mastery Journey
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-
-</div>
-
----
-
-## 📊 System Status
+**Stack:** `Python 3.11` `FastAPI` `Mesa` `Prophet` `Optuna` `Dash` `Plotly` `pandas` `web3.py`
 
 ```bash
-$ neofetch --ascii_distro NixOS
-
-┌─ Learning Progress ──────────────────────────────────────┐
-│ Python        ████████████████████▓░░   95% 🔥          │
-│ Linux CLI     ██████████████████▓░░░   90% 🐧          │
-│ Django        ███████████████▓░░░░░░   75% 🌐          │
-│ Godot         ████████████▓░░░░░░░░░   60% 🎮          │
-│ C/C++         ██████▓░░░░░░░░░░░░░░░   30% 📈          │
-│ Git           ████████████▓░░░░░░░░░   60% 🔧          │
-│ Tea Brewing   ████████████████████▓   99% ☕          │
-└──────────────────────────────────────────────────────────┘
-
-System Uptime: 3+ years on Linux 🐧
-Current Distro: NixOS (because why make life easy? 😄)
-Favorite Editor: Whatever gets the job done
-Debug Method: printf() and strategic tea breaks ☕
+git clone https://github.com/Vorchunello/ebes.git
+cd ebes && python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+uvicorn api.app:app --reload   # API → :8000
+python dashboard/app.py        # Dashboard → :8050
 ```
+
+`🚧 In development — Stage 1/8`
 
 ---
 
-## 🚧 Current Learning & Experiments
+## Stack
 
-<div align="center">
+**Backend**
+`Python` `Flask` `FastAPI` `PostgreSQL` `REST API` `JWT` `SQLite`
 
-<details>
-<summary>🚧 <strong>LIST OF LEARNING!</strong></summary>
+**Infrastructure**
+`Docker` `Kubernetes` `Linux` `NixOS` `Git` `VPS`
 
-🔥 **C/C++ Deep Dive**  
-> Mastering memory management, optimization & low‑level hacks.  
+**Data / ML**
+`pandas` `Prophet` `Optuna` `KMeans` `Plotly` `Dash`
 
-🔧 **Cpython**  
-> Improving my python(sometimes by using math). 
+**Other**
+`HTML/CSS` `C/C++` `OOP` `Algorithms & DS` `web3.py` `aiogram`
 
-🐧 **Linux Automation**  
-> Building custom scripts and tools for ultimate workflow.  
-
-> _Zero projects live… for now. Brace yourselves — big things are coming!_ 😉
-</details>
-
-</div>
----
-
-## Projects 
-<div align="center">
-<details>
-<summary>🚀 <strong>LIST OF PROJECTS</strong></summary>
-
-```
-┌────────────────────────────────────────────────────┐
-│ 🔧 Initializing Project Core...                    │
-│ 🧪 Loading ideas... ███████░░░░░░ 70%               │
-│ ⚙️  Compiling tools... ██████████░░ 90%             │
-│ 🌐 Network sync... [connected]                     │
-│                                                    │
-│ STATUS   : STANDBY                                 │
-│ LAUNCH   : SOON™                                   │
-│ MESSAGE  : Great things take time — stay tuned ⚡  │
-└────────────────────────────────────────────────────┘
-```
-
-_The repo may seem quiet..._  
-_But somewhere deep in the console — magic is brewing._  
-🌌 *Creation in progress...*  
-🌟 *Public launch imminent...*
-
-</details>
-</div>
-
-
+**Distro journey:** Ubuntu → Fedora → NixOS
 
 ---
 
-## 🎓 Academic Foundation
+## Education
+
+**Surgut State University** — Software Engineering, Bachelor's `2024 – 2028`
+
+| Subject | Status |
+|---------|--------|
+| Calculus | ✅ done |
+| Linear Algebra | ✅ done |
+| Discrete Math | ✅ done |
+| Algorithms & DS | 🔄 in progress |
+| Applied Mathematics | 🔄 in progress |
+
+---
+
+## Languages
+
+| Language | Level |
+|----------|-------|
+| Russian | Native |
+| Azerbaijani | Native |
+| Turkish | C1 |
+| English | B2 |
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-![University](https://img.shields.io/badge/🏛️_Surgut_State_University-Software_Engineering-00FF87?style=for-the-badge&labelColor=1A1A1A)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vorchunello&theme=github-dark-blue&hide_border=true)](https://github.com/Vorchunello)
 
-```sql
-SELECT * FROM academic_toolkit 
-WHERE status = 'MASTERED' OR status = 'IN_PROGRESS';
-
-┌─────────────────┬──────────────┬─────────────────────────────┐
-│    SUBJECT      │    STATUS    │         DESCRIPTION         │
-├─────────────────┼──────────────┼─────────────────────────────┤
-│ Calculus        │ ✅ MASTERED  │ Derivatives & Integrals     │
-│ Linear Algebra  │ ✅ MASTERED  │ Matrices are my friends     │
-│ Discrete Math   │ ✅ MASTERED  │ Logic & Graph Theory        │
-│ Algorithms      │ 🔄 LEARNING  │ Problem-solving patterns    │
-│ Data Structures │ 🔄 LEARNING  │ Efficient data organization │
-└─────────────────┴──────────────┴─────────────────────────────┘
-
--- Academic Status: Learning something new every day 📚
-```
+![Stats](https://github-readme-stats.vercel.app/api?username=Vorchunello&show_icons=true&theme=github_dark&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vorchunello&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
 ---
 
-## Multilingual Communication
+## Interests
 
-<div align="center">
-
-
-
-| Language    | Level          | Use Case                                    |
-| :---------- | :------------- | :------------------------------------------- |
-| 🇷🇺 Russian   | **Native**     | Everyday life, jokes & deep debugging rants |
-| 🇬🇧 English   | **Intermediate** | Code docs, global collaboration            |
-| 🇹🇷 Turkish   | **Fluent**     | Family chats & cultural bridge              |
-| 💻 Code      | **Advanced**   | Universal language of logic                 |
-
-
-</div>
-
----
-
-## 🎮 Side Quests & Interests
-
-<details>
-<summary>🎮 <strong>List of Side Quests & Interests</strong></summary>
-
-- 🥊 **MMA**, ⚽ **Football**, 🏓 **Table Tennis**, 🏐 **Volleyball**, 🏋️‍♂️ **CrossFit**  
-- 🌲 **Outdoor Adventures**: hiking, cycling, camping  
-- 🎮 **Gaming**: from RPGs to retro arcades  
-- 📚 **Reading**: sci‑fi, non‑fiction, thrillers & more  
-- 🎬 **Movies & Series**: indie art‑house to blockbusters  
-- ☕ **Tea Connoisseur**: from green to pu‑erh  
-</details>
-
----
-
-## 🎯 Currently Seeking
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[👨‍💻 Muhammedali] --> B[🔍 Seeking Opportunities]
-    
-    B --> C[💼 Internships]
-    B --> D[🤝 Open Source]
-    B --> E[👨‍🏫 Mentorship]
-    B --> F[🚀 Real Projects]
-    
-    C --> G[🌐 Web Dev]
-    C --> H[🎮 Game Dev]
-    C --> I[🐧 DevOps/Linux]
-    
-    D --> J[🐍 Python Projects]
-    D --> K[📚 Documentation]
-    D --> L[🐛 Bug Hunting]
-    
-    E --> M[📖 Code Reviews]
-    E --> N[🎯 Best Practices]
-    E --> O[🚀 Career Growth]
-    
-    F --> P[👥 Team Collaboration]
-    F --> Q[⚡ Production Code]
-    F --> R[💡 User Impact]
-    
-    style A fill:#00FF87,stroke:#000,stroke-width:4px,color:#000
-    style B fill:#00D9FF,stroke:#000,stroke-width:3px,color:#000
-    style C fill:#FF6B6B,stroke:#000,stroke-width:2px,color:#000
-    style D fill:#FFD43B,stroke:#000,stroke-width:2px,color:#000
-    style E fill:#9B59B6,stroke:#000,stroke-width:2px,color:#FFF
-    style F fill:#FF8C42,stroke:#000,stroke-width:2px,color:#000
-    
-    classDef default fill:#1A1A1A,stroke:#00FF87,stroke-width:2px,color:#00FF87
-```
-
-*Ready to contribute, learn, and build amazing things together! 🌟*
-
-</div>
-
----
-
-## 📈 GitHub Activity & Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Vorchunello&theme=dark&background=000000&stroke=00FF87&ring=00D9FF&fire=FF6B6B&currStreakNum=00FF87&sideNums=00D9FF&currStreakLabel=FFD43B&sideLabels=FFD43B&dates=FFFFFF&hide_border=true)](https://github.com/Vorchunello)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vorchunello&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FF87&icon_color=00D9FF&text_color=FFFFFF&border_color=00FF87)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vorchunello&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FF87&text_color=FFFFFF&border_color=00FF87)
-
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Vorchunello&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-## 🍵 Philosophy & Fun Facts
-
-<div align="center">
-
-```ascii
-    ☕ "If you catch some bug - Get some tea!" ☕
-    
-    Fun Facts:
-    ├── 🐧 Survived the Ubuntu → Fedora → NixOS journey
-    ├── ☕ Tea-to-code ratio: Perfectly balanced
-    ├── 🌙 Best debugging happens at 2 AM
-    ├── 🔧 Can fix anything with enough StackOverflow
-    └── 🚀 Dreams in Python, thinks in algorithms
-    
-    Current Status: [ Ready to build the future! ]
-```
-
-</div>
+Backend systems · Cybersecurity · Gamedev · Applied Mathematics · Blockchain · Systems programming · MMA · Football · Reading
 
 ---
 
 <div align="center">
 
-### 🌟 Let's Connect & Build Something Amazing!
+**Open to internships, collaborations, and interesting problems.**
 
-
-
-<sub>🎨 **Handcrafted with ❤️, ☕, and lots of Linux magic**</sub>  
-<sub>⚡ **Last updated:** Every time I learn something new (which is daily!)</sub>  
-<sub>🌟 **Star this repo if it made you smile!**</sub>
-
-```bash
-$ whoami
-muhammedali_shakhnazarov
-
-$ echo "Thanks for visiting my digital space! 🚀"
-Thanks for visiting my digital space! 🚀
-```
+[Telegram](https://t.me/totyeshotip) · [Email](mailto:010107shah@gmail.com) · [GitHub](https://github.com/Vorchunello)
 
 </div>
