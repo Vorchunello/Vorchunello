@@ -17,7 +17,7 @@
 
 I'm a Software Engineering student at Surgut State University and a fullstack developer with a strong backend focus.
 
-Over the past year I've shipped **7+ production APIs** at [Ayistgroup](https://ayistgroup.com), built microservice infrastructure with Docker/Kubernetes on NixOS, and started an original open-source project — an agent-based economic simulator.
+Over the past year  built microservice infrastructure with Docker/Kubernetes on NixOS, and started an original open-source project — an agent-based economic simulator.
 
 I care about systems that actually work: clean architecture, real performance numbers, and code that survives production.
 
