@@ -2,7 +2,7 @@
 
 # Muhammedali Shakhnazarov
 
-**Python Backend Developer · Linux Enthusiast · Builder**
+**Backend & AI Developer**
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/totyeshotip)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:010107shah@gmail.com)
@@ -15,94 +15,27 @@
 
 ## About
 
-I'm a Software Engineering student at Surgut State University and a fullstack developer with a strong backend focus.
-
-Over the past year  built microservice infrastructure with Docker/Kubernetes on NixOS, and started an original open-source project — an agent-based economic simulator.
-
-I care about systems that actually work: clean architecture, real performance numbers, and code that survives production.
-
-Currently exploring **applied mathematics**, **cybersecurity**, and **gamedev** — always building, always learning.
+Software Engineering student building backend services, distributed infrastructure, economic simulations and AI-powered applications.
 
 ```
 Ubuntu → Fedora → NixOS → ∞     If you catch some bug — get some tea. 🍵
 ```
 
 ---
+Python • Go • FastAPI • Flask • PostgreSQL • Docker • Linux • Distributed Systems
+Current focus:
 
-## Experience
+Backend Engineering
+AI & RAG Systems
+Distributed Systems
+Infrastructure & DevOps
+Applied Mathematics
 
-**Python Fullstack Developer @ Ayistgroup** `Mar 2025 – present`
-- Designed and shipped 7+ RESTful APIs with JWT authentication
-- Optimized PostgreSQL queries — **65% faster** response time
-- Deployed microservices on Docker/Kubernetes with **99.9% uptime**
-- Infrastructure on Ubuntu/NixOS
+Featured Projects:
 
-**Freelance Python Developer** `Sep 2024 – Feb 2025`
-- Built Telegram bots, scrapers, and REST services for small businesses
-- Owned full cycle: spec → code → VPS deployment
-
----
-
-## Projects
-
-### EBES — Equity-Based Economy Simulator
-
-> An agent-based simulator of an interest-free economy: partnership, risk-sharing, real assets.
-
-| Module | Description |
-|--------|-------------|
-| **Mudarabah** | Investor + manager, profit sharing |
-| **Musharakah** | Joint partnership with equity participation |
-| **Zakat** | 2.5% redistribution above nisab threshold |
-| **Sukuk** | Cash flow from real assets |
-| **Agents** | Mesa simulation of 1000+ agents |
-| **Macro** | GDP, Gini index, trade via World Bank API |
-| **ML** | Prophet forecast · KMeans · Optuna optimizer |
-
-**Stack:** `Python 3.11` `FastAPI` `Mesa` `Prophet` `Optuna` `Dash` `Plotly` `pandas` `web3.py`
-
-```bash
-git clone https://github.com/Vorchunello/ebes.git
-cd ebes && python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-uvicorn api.app:app --reload   # API → :8000
-python dashboard/app.py        # Dashboard → :8050
-```
-
-`🚧 In development — Stage 1/8`
-
----
-
-## Stack
-
-**Backend**
-`Python` `Flask` `FastAPI` `PostgreSQL` `REST API` `JWT` `SQLite`
-
-**Infrastructure**
-`Docker` `Kubernetes` `Linux` `NixOS` `Git` `VPS`
-
-**Data / ML**
-`pandas` `Prophet` `Optuna` `KMeans` `Plotly` `Dash`
-
-**Other**
-`HTML/CSS` `C/C++` `OOP` `Algorithms & DS` `web3.py` `aiogram`
-
-**Distro journey:** Ubuntu → Fedora → NixOS
-
----
-
-## Education
-
-**Surgut State University** — Software Engineering, Bachelor's `2024 – 2028`
-
-| Subject | Status |
-|---------|--------|
-| Calculus | ✅ done |
-| Linear Algebra | ✅ done |
-| Discrete Math | ✅ done |
-| Algorithms & DS | 🔄 in progress |
-| Applied Mathematics | 🔄 in progress |
-
+ERP System (Microservices ERP Platform)
+Ghost Platform (Secure Transport & Infrastructure)
+EBES (Agent-Based Economic Simulation)
 ---
 
 ## Languages
