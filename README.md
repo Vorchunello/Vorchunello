@@ -1,6 +1,6 @@
 <div align="center">
 
-# Muhammedali Shahnazarov
+# Muhammedali Shakhnazarov
 
 **Gameplay & Game AI / Tools Programmer · Godot 4 · Python · Odlar Games co-founder**
 
